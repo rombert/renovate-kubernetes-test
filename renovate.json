@@ -5,15 +5,8 @@
   ],
   "packageRules" : [
    {
-      "matchManagers": [
-        "osgi"
-      ],
-      "enabled": false
-    },
-   {
       "matchSourceUrls": ["https://github.com/fabric8io/kubernetes-client"],
-      "groupName": "Fabric8 Kubernetes and OpenShift Java Client ",
-      "enabled": true
+      "groupName": "Fabric8 Kubernetes and OpenShift Java Client "
     }
   ]
 }
