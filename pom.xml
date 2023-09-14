@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project
+    xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd"
+    xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>nu.muntea.renovate</groupId>
+    <artifactId>renovate-test</artifactId>
+    <version>1.0.0-SNAPSHOT</version>
+
+
+    <properties>
+        <!-- renovate: depName=org.ow2.asm:asm -->
+        <asm.version>9.3</asm.version>
+
+        <!--renovate: depName=org.codehaus.groovy:groovy -->
+        <groovy.version>2.3.4</groovy.version>
+
+        <!-- renovate: datasource=docker depName=mongo -->
+        <mongo.container.version>4.4.6</mongo.container.version>  
+    </properties>
+</project>
+
