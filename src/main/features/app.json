@@ -98,6 +98,8 @@
     "org.eclipse/yasson/2.0.4",
     "org.apache.commons/commons-lang3/3.12.0",
     "org.apache.tika/tika-parsers/1.28.5",
-    "org.apache.tika/tika-core/1.28.5"
+    "org.apache.tika/tika-core/1.28.5",
+    "org.apache.pdfbox/fontbox/2.0.29",
+    "org.apache.pdfbox/pdfbox/2.0.29"
   ]
 }
