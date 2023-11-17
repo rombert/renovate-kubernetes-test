@@ -13,7 +13,7 @@
     "org.apache.felix/org.apache.felix.logback/1.0.6",
     "ch.qos.logback/logback-classic/1.2.3",
     "ch.qos.logback/logback-core/1.2.3",
-    "org.slf4j/slf4j-api/1.7.26",
+    "org.slf4j/slf4j-api/1.7.36",
     "commons-io/commons-io/2.8.0",
     "org.reactivestreams/reactive-streams/1.0.3",
     "org.apache.sling/org.apache.sling.javax.activation/0.2.0",
