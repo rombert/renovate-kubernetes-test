@@ -15,7 +15,7 @@
     "ch.qos.logback/logback-core/1.2.3",
     "org.slf4j/slf4j-api/1.7.26",
     "commons-io/commons-io/2.8.0",
-    "org.reactivestreams/reactive-streams/1.0.3",
+    "org.reactivestreams/reactive-streams/1.0.4",
     "org.apache.sling/org.apache.sling.javax.activation/0.2.0",
     "org.apache.sling/org.apache.sling.feature/2.0.0",
     "io.projectreactor/reactor-core/3.4.10",
