@@ -102,6 +102,9 @@
     "org.apache.pdfbox/fontbox/2.0.29",
     "org.apache.pdfbox/pdfbox/2.0.29",
     "net.minidev/accessors-smart/2.4.8",
-    "net.minidev/json-smart/2.4.8"
+    "net.minidev/json-smart/2.4.8",
+    "org.mongodb/bson/5.5.0",
+    "org.mongodb/mongodb-driver-core/5.5.0",
+    "org.mongodb/mongodb-driver-sync/5.5.0"
   ]
 }
